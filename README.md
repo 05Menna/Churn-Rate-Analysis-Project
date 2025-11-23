@@ -4,13 +4,12 @@
 This repository contains a **Customer Churn Analysis Dashboard** built entirely using **Power BI**.  
 The goal of the project is to analyze customer churn patterns and present insights through clear, interactive visualizations.
 
----
+
 
 ## 🔗 Live Dashboard (Power BI Service)
 
 👉 **[View the Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYjA0YjRjMmUtNTQ0Ny00ZjI0LTk4OTYtYTMxYmNjNTQ4NmI3IiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)**
 
----
 
 ## 🎯 Project Objective
 
@@ -18,7 +17,7 @@ The goal of the project is to analyze customer churn patterns and present insigh
 - Highlight patterns related to demographics, geography, services, and payment behaviors  
 - Support business understanding of customer retention challenges  
 
----
+
 
 ## 📌 Key Features
 
@@ -29,7 +28,7 @@ The goal of the project is to analyze customer churn patterns and present insigh
 - Subscription, contract, and service breakdowns  
 - Clean layout with user-friendly filters  
 
----
+
 
 ## 🛠️ Tools Used
 
@@ -39,7 +38,7 @@ The goal of the project is to analyze customer churn patterns and present insigh
 | **Power BI Service** | Hosting and sharing dashboard |
 | **Excel / CSV** | Data source |
 
----
+
 
 ## 👥 Team Members
 
@@ -48,11 +47,5 @@ The goal of the project is to analyze customer churn patterns and present insigh
 - **Ghada Ragab**  
 - **Nermeen Noaman**
 
----
 
-## 🚀 How to Use
 
-1. Open the **Power BI Service link** to explore the live dashboard.  
-2. Clone the repository if you want to build on or modify the project.
-
----
